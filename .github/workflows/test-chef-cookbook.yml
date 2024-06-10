@@ -36,7 +36,7 @@ jobs:
 
           #- name: Run Foodcritic
           #        run: |
-          chef exec foodcritic ./resources
+          # chef exec foodcritic ./resources
 
       - name: Run Cookstyle
         run: |
